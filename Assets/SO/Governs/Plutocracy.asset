@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b8cb78d2c80c3746acb889d6d6179f0, type: 3}
+  m_Name: Plutocracy
+  m_EditorClassIdentifier: 
+  Name: "\u8D22\u9600\u5784\u65AD"
+  Description: "\u4E00\u79CD\u653F\u5E9C\u5F62\u5F0F\uFF0C\u6743\u529B\u638C\u63E1\u5728\u5C11\u6570\u5BCC\u4EBA\u624B\u4E2D\u3002"
+  Aggressiveness: 2
+  Militarization: 30
+  TechBonus: -10
